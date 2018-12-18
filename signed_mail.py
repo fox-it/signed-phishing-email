@@ -24,6 +24,7 @@
 #
 ####################
 
+#thx: https://m2crypto.readthedocs.io/en/latest/howto.smime.html#m2crypto-smime
 
 import smtplib
 from email.MIMEMultipart import MIMEMultipart
